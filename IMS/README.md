@@ -13,5 +13,6 @@ The sales.json file contains all the details of the purchases made by the user.
 
 ## For any queries, you can contact me:
 
-Email: saisuryadheeru@gmail.com
+Email: mailto:saisuryadheeru@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/p-krishna-dheeraj-56a823202/
