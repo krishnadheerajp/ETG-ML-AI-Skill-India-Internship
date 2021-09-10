@@ -2,7 +2,7 @@
 
 This folder has a summer.csv file having the details of the Summer Olympics of various sports, athletes, medals, etc. 
 
-Given data from the summer.csv file has been analysed and some questions regarding them  were answered succesfully and displayed in table form as well as a bar plot for better understanding. The following questions have been answered in the Summer_Olympics_Data_Analysis_Assignment.ipynb file:
+Given data from the summer.csv file has been analysed and the following questions have been answered in the Summer_Olympics_Data_Analysis_Assignment.ipynb file:
 
 1. In how many cities Summer Olympics is held so far?
 2. Which sport is having most number of Gold Medals so far? (Top 5)
@@ -13,7 +13,7 @@ Given data from the summer.csv file has been analysed and some questions regardi
 7. Which event is most popular in terms on number of players? (Top 5)
 8. Which sport is having most female Gold Medalists? (Top 5)
 
-
+For a better understanding, the required data has been represented in the form of tables and bar plots.
 
 
 ## For any queries, you can contact me:
